@@ -1,0 +1,15 @@
+City: Karachi, Wind Speed: 6.40, Temperature: 25.20, Is Day: 0
+City: Lahore, Wind Speed: 6.00, Temperature: 17.00, Is Day: 0
+City: Islamabad, Wind Speed: 6.60, Temperature: 13.90, Is Day: 0
+City: Quetta, Wind Speed: 4.80, Temperature: 11.40, Is Day: 0
+City: Peshawar, Wind Speed: 4.20, Temperature: 13.20, Is Day: 0
+City: Karachi, Wind Speed: 6.20, Temperature: 25.00, Is Day: 0
+City: Lahore, Wind Speed: 6.00, Temperature: 16.80, Is Day: 0
+City: Islamabad, Wind Speed: 6.60, Temperature: 13.60, Is Day: 0
+City: Quetta, Wind Speed: 4.80, Temperature: 11.20, Is Day: 0
+City: Peshawar, Wind Speed: 4.30, Temperature: 12.90, Is Day: 0
+City: Karachi, Wind Speed: 6.20, Temperature: 25.00, Is Day: 0
+City: Lahore, Wind Speed: 6.00, Temperature: 16.80, Is Day: 0
+City: Islamabad, Wind Speed: 6.60, Temperature: 13.60, Is Day: 0
+City: Quetta, Wind Speed: 4.80, Temperature: 11.20, Is Day: 0
+City: Peshawar, Wind Speed: 4.30, Temperature: 12.90, Is Day: 0
